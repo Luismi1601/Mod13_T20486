@@ -1,0 +1,15 @@
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.deps.json
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.runtimeconfig.json
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.runtimeconfig.dev.json
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.dll
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.pdb
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.csprojAssemblyReference.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.AssemblyInfoInputs.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.AssemblyInfo.cs
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.csproj.CoreCompileInputs.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.RazorAssemblyInfo.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.RazorAssemblyInfo.cs
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.RazorTargetAssemblyInfo.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.dll
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.pdb
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.genruntimeconfig.cache

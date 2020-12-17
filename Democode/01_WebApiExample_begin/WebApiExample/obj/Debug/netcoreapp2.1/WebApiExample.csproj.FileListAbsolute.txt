@@ -1,0 +1,15 @@
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.deps.json
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.runtimeconfig.json
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.runtimeconfig.dev.json
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.dll
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.pdb
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.csprojAssemblyReference.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.AssemblyInfoInputs.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.AssemblyInfo.cs
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.csproj.CoreCompileInputs.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.RazorAssemblyInfo.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.RazorAssemblyInfo.cs
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.RazorTargetAssemblyInfo.cache
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.dll
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.pdb
+C:\Curso\20486\Luismi\Tareas\Mod13\Democode\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.genruntimeconfig.cache
